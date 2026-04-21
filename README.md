@@ -10,7 +10,7 @@ Vous devriez pouvoir utiliser l'application de calculatrice ci-dessous :
 ## Diagramme des classes de l'application
 ```mermaid
 ---
-title: F08-Calculatrice
+title: D08-Calculatrice
 ---
 classDiagram
 class Application {
